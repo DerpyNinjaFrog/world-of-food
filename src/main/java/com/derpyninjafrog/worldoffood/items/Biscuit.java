@@ -10,7 +10,7 @@ public class Biscuit extends Item {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(5)
+                        .hunger(4)
                         .saturationModifier(1.3f)
                         .build()));
     }

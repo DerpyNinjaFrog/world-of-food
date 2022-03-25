@@ -4,12 +4,12 @@
   "version": "${version}",
 
   "name": "World of Food",
-  "description": "World of Food adds a world of food to Minecraft's currently rather boring selection.",
+  "description": "Minecraft mod that adds a world of food to Minecraft.",
   "authors": [
     "DerpyNinjaFrog"
   ],
   "contact": {
-    "homepage": "https://curseforge.com/minecraft/mc-mods/world-of-food",
+    "homepage": "https://modrinth.com/mod/world-of-food",
     "sources": "https://github.com/DerpyNinjaFrog/world-of-food"
   },
 
@@ -26,8 +26,8 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.3",
-    "fabric": "*",
+    "fabricloader": ">=0.13.3",
+    "fabric": ">=0.48.0+1.18.2",
     "minecraft": "1.18.x",
     "java": ">=17"
   },

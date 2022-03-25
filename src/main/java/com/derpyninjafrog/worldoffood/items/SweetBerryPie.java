@@ -10,7 +10,7 @@ public class SweetBerryPie extends Item {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(4)
+                        .hunger(5)
                         .saturationModifier(1.3f)
                         .build()));
     }

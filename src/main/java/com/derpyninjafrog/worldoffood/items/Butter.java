@@ -13,7 +13,7 @@ public class Butter extends Item {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(2)
+                        .hunger(1)
                         .saturationModifier(0.5f)
                         .statusEffect(new StatusEffectInstance(StatusEffects.NAUSEA), .35f)
                         .build()));

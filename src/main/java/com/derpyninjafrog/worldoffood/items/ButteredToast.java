@@ -10,7 +10,7 @@ public class ButteredToast extends Item {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(7)
+                        .hunger(6)
                         .saturationModifier(1.8f)
                         .build()));
     }

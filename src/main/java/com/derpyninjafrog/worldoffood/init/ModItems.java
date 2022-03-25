@@ -16,6 +16,7 @@ public class ModItems {
     public static final Item CARAMEL = new Caramel();
     public static final Item CARAMEL_APPLE = new CaramelApple();
     public static final Item CEREAL = new Cereal();
+    public static final Item CHEESE = new Cheese();
     public static final Item CHOCOLATE = new Chocolate();
     public static final Item CHOCOLATE_PIE = new ChocolatePie();
     public static final Item COOKED_EGG = new CookedEgg();
@@ -36,6 +37,7 @@ public class ModItems {
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "caramel"), CARAMEL);
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "caramel_apple"), CARAMEL_APPLE);
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "cereal"), CEREAL);
+        Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "cheese"), CHEESE);
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "chocolate"), CHOCOLATE);
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "chocolate_pie"), CHOCOLATE_PIE);
         Registry.register(Registry.ITEM, new Identifier(WorldOfFood.MOD_ID, "cooked_egg"), COOKED_EGG);

@@ -10,7 +10,7 @@ public class Tortilla extends Item {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(4)
+                        .hunger(3)
                         .saturationModifier(1.3f)
                         .build()));
     }

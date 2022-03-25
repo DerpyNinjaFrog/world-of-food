@@ -5,12 +5,12 @@ import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 
-public class ApplePie extends Item {
-    public ApplePie() {
+public class Cheese extends Item {
+    public Cheese() {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(5)
+                        .hunger(4)
                         .saturationModifier(1.3f)
                         .build()));
     }
