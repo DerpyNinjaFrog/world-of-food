@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "world_of_food:butter"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:biscuit",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "world_of_food:cooked_egg",
+  "experience": 0.50,
+  "cookingtime": 200
+}

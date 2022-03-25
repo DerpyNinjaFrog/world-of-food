@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bone_meal"
+  },
+  "result": "world_of_food:gelatin",
+  "experience": 0.40,
+  "cookingtime": 200
+}

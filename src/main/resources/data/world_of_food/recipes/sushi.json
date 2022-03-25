@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "tag": "world_of_food:edible_fish"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:sushi",
+    "count": 3
+  }
+}

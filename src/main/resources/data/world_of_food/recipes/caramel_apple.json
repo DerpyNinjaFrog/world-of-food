@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " # ",
+    "#$#",
+    " # "
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "world_of_food:caramel"
+    },
+    "$":
+    {
+      "item": "minecraft:apple"
+    }
+  },
+  "result":
+  {
+    "item": "world_of_food:caramel_apple",
+    "count": 1
+  }
+}

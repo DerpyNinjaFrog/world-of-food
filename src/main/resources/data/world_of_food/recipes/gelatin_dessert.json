@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "world_of_food:gelatin"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "world_of_food:fruit"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:gelatin_dessert",
+    "count": 1
+  }
+}

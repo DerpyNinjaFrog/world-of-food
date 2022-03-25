@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "##"
+  ],
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result":
+  {
+    "item": "world_of_food:tortilla",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:bread"
+  },
+  "result": "world_of_food:toast",
+  "experience": 0.40,
+  "cookingtime": 200
+}

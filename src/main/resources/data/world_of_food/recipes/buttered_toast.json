@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "world_of_food:toast"
+    },
+    {
+      "item": "world_of_food:butter"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:buttered_toast",
+    "count": 1
+  }
+}

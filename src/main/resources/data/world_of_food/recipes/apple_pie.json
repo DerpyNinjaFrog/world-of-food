@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:apple_pie",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "world_of_food:tortilla"
+  },
+  "result": "world_of_food:tortilla_chips",
+  "count": 1,
+  "experience": 0.40,
+  "cookingtime": 100
+}
