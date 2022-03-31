@@ -3,4 +3,10 @@ World of Food is a Minecraft mod that introduces a world of food to Minecraft.
 
 Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-of-food) and [Modrinth](https://modrinth.com/mod/world-of-food).
 
-While you technically can just sell copies of this mod, I would appreciate it if you didn't. This is mostly available for educational/personal purposes. If you want to make your own food mod, I would advise starting from scratch using the [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod). [TechnoVision](https://www.youtube.com/channel/UC3n-lKS-MYlunVtErgzSFZg) and [Kaupenjoe](https://www.youtube.com/channel/UCbzPhyLcO8VP25dZ7kaUyAw) have some good tutorials for Fabric modding. You will learn more that way.
+If you want more features, you should create an issue or discussion. You can also leave a comment on the CurseForge page.
+If you make an expanded version of my mod, I would appreciate it if you credited me.
+Also, I plan on making a version of my mod with crops and maybe new cooking devices, as well as a mod that adds beverages.
+
+If you want to make your own mod, I would advise starting from scratch using the [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod). [TechnoVision](https://www.youtube.com/channel/UC3n-lKS-MYlunVtErgzSFZg) and [Kaupenjoe](https://www.youtube.com/channel/UCbzPhyLcO8VP25dZ7kaUyAw) have some good tutorials for Fabric modding. You will learn more that way.
+
+Thanks for checking out my mod, good luck!
