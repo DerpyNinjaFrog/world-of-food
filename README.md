@@ -1,6 +1,8 @@
 # World of Food
 World of Food is a Minecraft mod that introduces a world of food to Minecraft.
 
+The wiki page includes the recipes.
+
 Available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-of-food) and [Modrinth](https://modrinth.com/mod/world-of-food).
 
 If you want more features, you should create an issue or discussion. You can also leave a comment on the CurseForge page.
