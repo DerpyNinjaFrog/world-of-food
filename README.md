@@ -14,4 +14,4 @@ If you make an expanded version of my mod, I would appreciate it if you credited
 
 If you want to make your own mod, I would advise starting from scratch using the [Fabric Example Mod](https://github.com/FabricMC/fabric-example-mod). [TechnoVision](https://www.youtube.com/channel/UC3n-lKS-MYlunVtErgzSFZg) and [Kaupenjoe](https://www.youtube.com/channel/UCbzPhyLcO8VP25dZ7kaUyAw) have some good tutorials for Fabric modding. You will learn more that way.
 
-Thanks for checking out my mod, good luck and I hope you enjoy!
+**Thanks for checking out my mod, good luck and I hope you enjoy!**
