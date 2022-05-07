@@ -4,12 +4,12 @@
   "version": "${version}",
 
   "name": "World of Food",
-  "description": "Minecraft mod that adds a world of food to Minecraft.",
+  "description": "Adds a world of food to Minecraft.",
   "authors": [
     "DerpyNinjaFrog"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/world-of-food",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/world-of-food",
     "sources": "https://github.com/DerpyNinjaFrog/world-of-food"
   },
 
@@ -29,9 +29,8 @@
     "fabricloader": ">=0.13.3",
     "fabric": "*",
     "minecraft": "1.18.x",
-    "java": ">=17"
+    "java": ">=15"
   },
   "suggests": {
-    "another-mod": "*"
   }
 }

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_mutton"
+    },
+    {
+      "item": "world_of_food:cheese"
+    },
+    {
+      "item": "world_of_food:mashed_potatoes"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:shepherds_pie",
+    "count": 1
+  }
+}

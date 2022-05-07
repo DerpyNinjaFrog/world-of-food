@@ -5,12 +5,15 @@
       "item": "minecraft:milk_bucket"
     },
     {
-      "tag": "world_of_food:fruit"
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
     }
   ],
   "result":
   {
-    "item": "world_of_food:cereal",
+    "item": "world_of_food:cheese",
     "count": 1
   }
 }

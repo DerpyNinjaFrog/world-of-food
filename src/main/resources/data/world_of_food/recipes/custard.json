@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "world_of_food:sweet_cream_bucket"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:custard",
+    "count": 1
+  }
+}

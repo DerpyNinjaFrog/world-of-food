@@ -1,10 +1,13 @@
 {
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "world_of_food:sweet_cream"
-  },
-  "result": "world_of_food:caramel",
-  "count": 4,
-  "experience": 0.40,
-  "cookingtime": 200
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "world_of_food:caramel_bucket"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:caramel",
+    "count": 2
+  }
 }

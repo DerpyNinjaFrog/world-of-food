@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "world_of_food:butter"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:mashed_potatoes",
+    "count": 1
+  }
+}

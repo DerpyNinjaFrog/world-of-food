@@ -1,17 +1,15 @@
 package com.derpyninjafrog.worldoffood.items;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.item.FoodComponent;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
+import net.minecraft.item.*;
 
 public class SweetBerryPie extends Item {
     public SweetBerryPie() {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
                 .food(new FoodComponent.Builder()
-                        .hunger(5)
-                        .saturationModifier(1.3f)
+                        .hunger(7)
+                        .saturationModifier(4.5f)
                         .build()));
     }
 }

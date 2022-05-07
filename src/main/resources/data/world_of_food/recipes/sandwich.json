@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "world_of_food:cheese"
+    },
+    {
+      "tag": "world_of_food:cooked_meat"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:sandwich",
+    "count": 1
+  }
+}

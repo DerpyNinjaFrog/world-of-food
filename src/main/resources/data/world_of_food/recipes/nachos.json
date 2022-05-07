@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "world_of_food:tortilla_chips"
+    },
+    {
+      "item": "world_of_food:cheese"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:nachos",
+    "count": 1
+  }
+}

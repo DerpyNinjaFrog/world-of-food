@@ -11,7 +11,8 @@
       "item": "world_of_food:gelatin"
     },
     {
-      "item": "minecraft:water_bucket"
+      "item": "minecraft:potion",
+      "NBTag": "minecraft:water"
     },
     {
       "tag": "world_of_food:fruit"
@@ -20,6 +21,6 @@
   "result":
   {
     "item": "world_of_food:gelatin_dessert",
-    "count": 2
+    "count": 1
   }
 }

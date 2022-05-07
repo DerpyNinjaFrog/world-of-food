@@ -1,17 +1,16 @@
 package com.derpyninjafrog.worldoffood.items;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.minecraft.item.FoodComponent;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
+import net.minecraft.item.*;
 
-public class GelatinDessert extends Item {
+public class GelatinDessert extends StewItem {
     public GelatinDessert() {
         super(new FabricItemSettings()
                 .group(ItemGroup.FOOD)
+                .maxCount(1)
                 .food(new FoodComponent.Builder()
-                        .hunger(4)
-                        .saturationModifier(1.2f)
+                        .hunger(5)
+                        .saturationModifier(3.0f)
                         .build()));
     }
 }

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "world_of_food:edible_fish"
+    },
+    {
+      "item": "minecraft:dried_kelp"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "result":
+  {
+    "item": "world_of_food:ramen",
+    "count": 1
+  }
+}
