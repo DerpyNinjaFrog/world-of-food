@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for this project
 title: Feature request - my idea
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: DerpyNinjaFrog
 
 ---
 
